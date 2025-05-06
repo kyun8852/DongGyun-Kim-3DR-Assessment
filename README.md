@@ -12,11 +12,6 @@ To set up and run the project locally, follow these steps:
 3. **Run tests:**
    npm test
 
-## Environment Variables
-
-- A `.env` file is included in this repository for testing purposes only.
-- It allows you to run the project locally and test basic functionality.
-
 ## Notes
 
 - Make sure you have **Node.js** and **npm** installed before running the commands above.
