@@ -16,8 +16,6 @@ To set up and run the project locally, follow these steps:
 
 - A `.env` file is included in this repository for testing purposes only.
 - It allows you to run the project locally and test basic functionality.
-- The database configuration in the `.env` file is temporary and only for testing.
-- The actual database integration will be completed after the assessment is finished.
 
 ## Notes
 
